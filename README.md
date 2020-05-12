@@ -1,6 +1,8 @@
 # TrueTechSpringBootProject1
 Spring boot project for an interview round.
 
+I have used IntelliJ to develop this spring boot project. You can use either IntelliJ or eclipse.
+
 ----
 # Dependancies 
 Spring boot starter web to define our application as web.
